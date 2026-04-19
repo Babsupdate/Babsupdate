@@ -1,46 +1,185 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=200&section=header&text=0X%20BABS&fontSize=70&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=Building%20Africa's%20Digital%20Infrastructure&descAlignY=60&descColor=a0aec0&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a00,40:2d1500,100:1a0a00&height=180&section=header&text=Babsupdate&fontSize=62&fontColor=f0a500&animation=fadeIn&fontAlignY=40&desc=Engineer.+Builder.+Founder.&descAlignY=62&descColor=c9a96e&descSize=16" width="100%" />
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Web3+Developer+%F0%9F%94%97;Full+Stack+Engineer+(React+%7C+Node+%7C+Rust+%7C+Go);Mobile+%7C+Web+%7C+Desktop+Application+Builder;Co-Founder+%40+ZyndrHQ+%F0%9F%8C%8D;Building+Africa's+Digital+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F0A500&center=true&vCenter=true&width=680&lines=Full+Stack+Engineer+%7C+Web3+Developer;TypeScript+%7C+React+%7C+Rust+%7C+Go;Building+Africa%27s+Digital+Infrastructure+%F0%9F%8C%8D;Mobile+%7C+Web+%7C+Desktop+Application+Dev;Co-Founder+of+ZyndrHQ+%40+Just-Code-Builder" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=ZyndrHQ&label=Profile+Views&color=00f5ff&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Babsupdate&label=Profile+Views&color=f0a500&style=flat-square&labelColor=1a0a00" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/ZyndrHQ?label=Followers&style=flat-square&color=00f5ff&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/followers/Babsupdate?label=Followers&style=flat-square&color=f0a500&labelColor=1a0a00" />
 &nbsp;
-<img src="https://img.shields.io/badge/Based%20in-Osun%20State%2C%20Nigeria%20🇳🇬-00f5ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Osun_State%2C_Nigeria-🇳🇬-f0a500?style=flat-square&labelColor=1a0a00" />
 
 </div>
 
 ---
 
-## 👤 About Me
+## 🙋 Who Am I
 
-```ts
-const OxBabs = {
-  name:       "0X BABS",
-  alias:      "ZyndrHQ",
-  location:   "Osun State, Nigeria 🇳🇬",
-  role:       ["Web3 Developer", "Full Stack Engineer", "Mobile App Developer"],
-  company:    "Just-Code-Builder (ZyndrHQ)",
-  education:  "Electrical & Electronics Engineering — Osun State University",
+<table>
+<tr>
+<td width="55%">
 
-  currently:  [
-    "Building the K-Family — 7 interconnected pan-African apps",
-    "Architecting Kernal.io — Africa's Core API infrastructure",
-    "Shipping CloutIx (nearly live 🎉)",
-    "Deep in Krat + Kribs production sprint",
+```typescript
+const Babsupdate = {
+  name:      "0X BABS",
+  handles:   ["@Babsupdate", "@ZyndrHQ"],
+  location:  "Osun State, Nigeria 🇳🇬",
+  education: "Electrical & Electronics Engineering",
+             // Osun State University
+
+  role: [
+    "Full Stack Engineer",
+    "Web3 Developer",
+    "Mobile App Developer",
+    "Founder @ ZyndrHQ",
   ],
 
-  techStack: {
-    mobile:     ["React Native CLI", "react-navigation", "Reanimated"],
+  building: {
+    infra:     "Kernal.io  — Africa's Core API",
+    commerce:  "Krat       — Pan-African Marketplace",
+    housing:   "Kribs      — GPS-Verified Rentals",
+    social:    "Klix       — Web3 Super App",
+    payments:  "Kredio     — Crypto Gateway",
+    vpn:       "KITE       — DePIN Bandwidth Net",
+    clout:     "CloutIx    — Engagement Exchange",
+  },
+
+  currentFocus: [
+    "Shipping CloutIx 🚀",
+    "Krat + Kribs production sprint",
+    "Kernal Core API architecture",
+  ],
+
+  openTo: "Collaborators & builders who think big 🤝",
+};
+```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Babsupdate&show_icons=true&theme=github_dark&title_color=f0a500&icon_color=f0a500&text_color=e2d9c9&border_color=3d2800&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Babsupdate&theme=dark&border=3d2800&ring=f0a500&fire=e05c00&currStreakLabel=f0a500&sideLabels=c9a96e&dates=8b7355&stroke=3d2800" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Most Used**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+
+**Frontend & Mobile**
+
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=f0a500)
+![React Native](https://img.shields.io/badge/React_Native_CLI-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+
+**Backend & Systems**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=68a063)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=for-the-badge&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python_FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Neon-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis_Upstash-1a1a1a?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-1a1a1a?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1a1a1a?style=for-the-badge&logo=prisma&logoColor=2D3748)
+
+**Web3 & Blockchain**
+
+![Web3](https://img.shields.io/badge/Web3-1a1a1a?style=for-the-badge&logo=web3dotjs&logoColor=f0a500)
+![Ethereum](https://img.shields.io/badge/DeFi-1a1a1a?style=for-the-badge&logo=ethereum&logoColor=f0a500)
+![Bitcoin](https://img.shields.io/badge/DePIN-1a1a1a?style=for-the-badge&logo=bitcoin&logoColor=f0a500)
+
+</div>
+
+---
+
+## 📊 Language Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babsupdate&theme=github_dark&title_color=f0a500&text_color=e2d9c9&border_color=3d2800&hide_border=false&layout=donut&langs_count=8" height="220" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Babsupdate&bg_color=0d1117&color=f0a500&line=f0a500&point=e2d9c9&area_color=2d1500&area=true&hide_border=false&border_color=3d2800" width="100%" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Babsupdate&theme=darkhub&no-frame=false&margin-w=6&row=1&column=7" width="100%" />
+</div>
+
+---
+
+## 🚀 The K-Family Portfolio
+
+> Building 7 interconnected apps under one vision — Africa's digital infrastructure.
+
+<div align="center">
+
+| # | App | What it does | X Handle | Status |
+|---|-----|-------------|----------|--------|
+| 🔵 | **Klix** | Web3 Social Super-App | [@ZyndrHQ](https://x.com/ZyndrHQ) | 🔨 Building |
+| 🟠 | **Krat** | Pan-African Super Marketplace | [@AddKrat](https://x.com/AddKrat) | 🔨 Sprint |
+| 🟢 | **Kribs** | GPS-Verified Housing Rentals | [@UseKrib](https://x.com/UseKrib) | 🔨 Sprint |
+| 🟣 | **Kredio** | Crypto Payment Gateway + DeFi | [@GetKredio](https://x.com/GetKredio) | ⚙️ Active |
+| 🔴 | **KITE** | DePIN VPN + Bandwidth Marketplace | — | 📐 Planned |
+| 🟡 | **CloutIx** | Social Media Engagement Exchange | [@ZyndrHQ](https://x.com/ZyndrHQ) | 🚀 Near Live |
+| ⚪ | **Kernal** | Core API — Auth, Wallet, KYC | [@ZyndrHQ](https://x.com/ZyndrHQ) | 🔨 Building |
+
+</div>
+
+---
+
+## 🔗 Find Me
+
+<div align="center">
+
+[![X (Twitter)](https://img.shields.io/badge/@ZyndrHQ-000000?style=for-the-badge&logo=x&logoColor=f0a500)](https://x.com/ZyndrHQ)
+[![GitHub Personal](https://img.shields.io/badge/GitHub-Babsupdate-1a1a1a?style=for-the-badge&logo=github&logoColor=f0a500)](https://github.com/Babsupdate)
+[![GitHub Brand](https://img.shields.io/badge/GitHub-ZyndrHQ-1a1a1a?style=for-the-badge&logo=github&logoColor=f0a500)](https://github.com/ZyndrHQ)
+[![Org](https://img.shields.io/badge/GitHub_Org-Just--Code--Builder-1a1a1a?style=for-the-badge&logo=github&logoColor=f0a500)](https://github.com/Just-Code-Builder)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349051362610)
+[![Kernal](https://img.shields.io/badge/Kernal.io-Core_API-f0a500?style=for-the-badge&logoColor=white)](https://kernal.io)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a00,60:2d1500,100:1a0a00&height=110&section=footer&text=One+API+to+power+Africa's+future&fontSize=15&fontColor=f0a500&animation=fadeIn&fontAlignY=65" width="100%" />
+
+</div>
     frontend:   ["Next.js 14", "React", "TypeScript", "Tailwind CSS", "shadcn/ui"],
     backend:    ["Node.js", "Express", "TypeScript", "Prisma ORM", "PostgreSQL"],
     perf:       ["Rust", "Go"],
